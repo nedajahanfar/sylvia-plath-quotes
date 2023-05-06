@@ -10,7 +10,7 @@ function generate() {
         "Sylvia Plath-4" : '"I am terrified by this dark thing that sleeps in me."',
         "Sylvia plath-5" : '"Out of the ash I rise with my red hair and i eat men like air."',
         "Sylvia Plath-6" : '"I have the choice of being constantly active and happy or introspectively passive and sad.Or I can go mad by ricocheting in between."',
-        "Sylvia plath-7" : '"If i din\'t think I would be much happier."',
+        "Sylvia plath-7" : '"If i didn\'t think I would be much happier."',
         "Sylvia plath-8" : '"Eternity bores me, I never wanted it."'
     }
 
